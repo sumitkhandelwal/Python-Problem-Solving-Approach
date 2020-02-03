@@ -1,0 +1,6 @@
+tuple1  = (1, "hello", "World", 3)
+print ("Print complete tuple :", tuple1) 
+print ("Print the element of a 3rd position :", tuple1[3:]) 
+print ("Print First Three Elements :", tuple1[0:2])  
+print ("Print list two time (concatination): ",tuple1 + tuple1) 
+print ("Multiple of a list three times :", tuple1 * 3)   
